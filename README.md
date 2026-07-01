@@ -111,3 +111,11 @@ payment-funnel-analysis/
 ## Tools Used
 
 `SQL Server (T-SQL)` · `Tableau Desktop` · `Excel/CSV`
+
+## 👤 Author
+
+**Navjot Singh**  
+Aspiring Data Analyst | Python • SQL • EDA  
+[LinkedIn](https://www.linkedin.com/in/-navjotsingh) • [GitHub](https://github.com/Nav2234)
+
+---
